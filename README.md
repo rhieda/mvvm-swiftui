@@ -14,3 +14,4 @@ Covered topics
 -------
 
 https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/#id1
+Based on: https://blog.devgenius.io/mvvm-pattern-in-swiftui-a-practical-example-c79c5cc44f74
