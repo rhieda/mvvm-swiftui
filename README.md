@@ -1,13 +1,7 @@
-$mvvm-swiftui
+MVVM-SwiftUI
 ========
 
-$project is a Sample project to learn some concepts of swift-ui MVVM
-
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
+MVVM-SwiftUI is a simple sample project focused on display some basic concepts of swift-ui MVVM
 
 Covered topics
 --------
@@ -15,6 +9,7 @@ Covered topics
 - SwiftUI + MVVM
 - Customized Views, use of @ViewBuilder
 - Use of @MainActor, @StateObject, @Published variables
+- Usage of async await requests
 
 -------
 
